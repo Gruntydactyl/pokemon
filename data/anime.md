@@ -56,8 +56,6 @@
 | EP050 | Who Gets to Keep Togepy!?                                                   | 1998-06-25       | Who Gets to Keep Togepi?                                           | 1999-03-27      |
 | EP051 | Fushigidane's Mysterious Flower Garden                                      | 1998-07-02       | Bulbasaur's Mysterious Garden                                      | 1999-04-03      |
 | EP054 | Police Dog Gardie                                                           | 1998-07-16       | The Case of the K-9 Caper!                                         | 1999-04-10      |
-| PK01  | Pikachu's Summer Vacation                                                   | 1998-07-18       | Pikachu's Vacation                                                 | 1999-11-12      |
-| M01   | Mewtwo's Counterattack                                                      | 1998-07-18       | Pokémon the First Movie - Mewtwo Strikes Back                      | 1999-11-12      |
 | EP055 | Photo Op Pikachu                                                            | 1998-07-23       | Pokémon Paparazzi                                                  | 1999-04-17      |
 | EP056 | Pokémon Certification Test!?                                                | 1998-07-30       | The Ultimate Test                                                  | 1999-04-24      |
 | EP053 | It's Children's Day! All Members Gather!                                    | 1998-07-09       | The Purr-fect Hero                                                 | 1999-04-17      |
@@ -70,6 +68,9 @@
 | EP063 | Tokiwa Gym! The Last Badge!                                                 | 1998-09-17       | The Battle of the Badge                                            | 1999-09-25      |
 | EP064 | Barrierd from the Pokémon Circus                                            | 1998-09-24       | It's Mr. Mime Time                                                 | 1999-09-27      |
 | EP065 | Rival Showdown! Okido Laboratory                                            | 1998-10-08       | Showdown at the Po-ké Corral                                       | 1999-09-30      |
+| UN04  | The Birth of Mewtwo                                                         | 1999-07-08       | The Uncut Story of Mewtwo's Origin                                 | 2000-03-21      |
+| PK01  | Pikachu's Summer Vacation                                                   | 1998-07-18       | Pikachu's Vacation                                                 | 1999-11-12      |
+| M01   | Mewtwo's Counterattack                                                      | 1998-07-18       | Pokémon the First Movie - Mewtwo Strikes Back                      | 1999-11-12      |
 | EP066 | When Yadon Becomes Yadoran                                                  | 1998-10-08       | The Evolution Solution                                             | 1999-09-30      |
 | EP067 | The Legend of the Surfing Pikachu                                           | 1998-10-22       | The Pi-Kahuna                                                      | 1999-10-02      |
 | EP068 | Kusaihana of the Botanical Garden                                           | 1998-10-29       | Make Room for Gloom                                                | 1999-10-04      |
@@ -110,7 +111,6 @@
 | EP101 | Coil on the Prairie!                                                        | 1999-06-17       | Get Along, Little Pokémon                                          | 2000-04-29      |
 | EP102 | Monster in the Sewers!?                                                     | 1999-06-24       | The Mystery Menace                                                 | 2000-05-06      |
 | EP103 | Yuzu Gym! Type Battle 3 VS 3!!                                              | 1999-07-01       | Misty Meets Her Match                                              | 2000-09-09      |
-| UN04  | The Birth of Mewtwo                                                         | 1999-07-08       | The Uncut Story of Mewtwo's Origin                                 | 2000-03-21      |
 | EP104 | Pikachu VS Nyarth!?                                                         | 1999-07-15       | Bound For Trouble                                                  | 2000-09-15      |
 | PK04  | The Pikachu Expedition                                                      | 1999-07-17       | Pikachu's Rescue Adventure                                         | 2000-07-21      |
 | M02   | Mirage Pokémon: Lugia's Explosive Birth                                     | 1999-07-17       | Pokémon the Movie 2000 - The Power of One                          | 2000-07-21      |
