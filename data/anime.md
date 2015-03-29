@@ -77,12 +77,12 @@
 | EP069 | Pokémon the Movie!                                                          | 1998-11-05       | Lights, Camera, Quack-tion!                                        | 1999-10-08      |
 | EP070 | Nyarth's A-I-U-E-O                                                          | 1998-11-12       | Go West Young Meowth                                               | 1999-10-09      |
 | EP071 | Enter Shitennō Siba!                                                        | 1998-11-19       | To Master the Onixpected!                                          | 1999-10-11      |
+| PK02  | Let's Play on Christmas!                                                    | 1998-12-22       | Christmas Night                                                    | 2006-11-25      |
+| PK03  | Let's Play in the Snow!                                                     | 1998-12-22       | Kanga Games                                                        | 2006-11-25      |
 | EP072 | Fierce Battle! Ancient Pokémon                                              | 1998-11-26       | The Ancient Puzzle of Pokémopolis                                  | 1999-10-14      |
 | EP073 | Garagara's Bone Club                                                        | 1998-12-03       | Bad to the Bone                                                    | 1999-10-16      |
 | EP074 | Fire! Pokémon League Opening Ceremony!                                      | 1998-12-10       | All Fired Up!                                                      | 1999-10-23      |
 | EP075 | Pokémon League Opens! Water Field!                                          | 1998-12-17       | Round One - Begin!                                                 | 1999-10-30      |
-| PK02  | Let's Play on Christmas!                                                    | 1998-12-22       | Christmas Night                                                    | 2006-11-25      |
-| PK03  | Let's Play in the Snow!                                                     | 1998-12-22       | Kanga Games                                                        | 2006-11-25      |
 | EP076 | Ice Field! Blazing Battle!                                                  | 1998-12-24       | Fire and Ice                                                       | 1999-11-06      |
 | EP077 | Grass Field! Unexpected Rival!                                              | 1999-01-01       | The Fourth Round Rumble                                            | 1999-11-13      |
 | EP078 | A Rival Enters!                                                             | 1999-01-07       | A Friend In Deed                                                   | 1999-11-20      |
