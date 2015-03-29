@@ -193,9 +193,9 @@
 | EP176 | Ariados! Battle of Ninja Arts!!                                             | 2000-12-07       | Ariados, Amigos                                                    | 2001-11-17      |
 | EP177 | Flap, Yanyanma! Fly to Tomorrow's Sky!!                                     | 2000-12-14       | Wings 'N' Things                                                   | 2001-11-17      |
 | EP178 | Popocco! Grass Pokémon Battle!!                                             | 2000-12-21       | The Grass Route                                                    | 2001-11-03      |
-| UN06  | We are the Pichu Brothers - Balloon disturbance                             | 2000-12-22       | Trouble in Big Town                                                | 2006-10-14      |
 | PK08  | Delibird's Present                                                          | 2000-12-22       | Delibird's Dilemma                                                 | 2006-06-17      |
 | PK09  | White Story                                                                 | 2000-12-22       | Snorlax Snowman                                                    | 2006-06-17      |
+| UN06  | We are the Pichu Brothers - Balloon disturbance                             | 2000-12-22       | Trouble in Big Town                                                | 2006-10-14      |
 | TV01  | Mewtwo! I Am Here                                                           | 2000-12-30       | Mewtwo Returns                                                     | 2001-12-01      |
 | EP179 | Pikachu and Pichu!                                                          | 2001-01-04       | The Apple Corp!                                                    | 2001-12-01      |
 | EP180 | Hellgar and Togepy!                                                         | 2001-01-11       | Houndoom's Special Delivery                                        | 2001-12-01      |
