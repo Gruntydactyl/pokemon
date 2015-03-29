@@ -39,6 +39,8 @@
 | EP037 | Metamon and the Copycat Girl                                                | 1997-12-09       | Ditto's Mysterious Mansion                                         | 1998-10-26      |
 | EP038 | Electric Soldier Porygon                                                    | 1997-12-16       | _Not Dubbed_                                                       | _Unaired_       |
 | UN01  | Anime: Pocket Monsters Problem Inspection Report                            | 1998-04-11       | _Not Dubbed_                                                       | _Unaired_       |
+| UN02  | Rougela's Christmas                                                         | 1998-10-05       | Holiday Hi-Jynx                                                    | 1999-12-11      |
+| UN03  | Iwark as a Bivouac                                                          | 1998-10-05       | Snow Way Out!                                                      | 1999-12-18      |
 | EP039 | Forest of Pikachu                                                           | 1998-04-16       | Pikachu's Good-Bye                                                 | 1998-10-27      |
 | EP040 | 4 Eievui Brothers                                                           | 1998-04-16       | The Battling Eevee Brothers                                        | 1998-10-27      |
 | EP041 | Wake Up! Kabigon!                                                           | 1998-04-23       | Wake Up Snorlax!                                                   | 1998-10-28      |
@@ -67,8 +69,6 @@
 | EP062 | Pippi VS Purin                                                              | 1998-09-10       | Clefairy Tales                                                     | 1999-09-25      |
 | EP063 | Tokiwa Gym! The Last Badge!                                                 | 1998-09-17       | The Battle of the Badge                                            | 1999-09-25      |
 | EP064 | Barrierd from the Pokémon Circus                                            | 1998-09-24       | It's Mr. Mime Time                                                 | 1999-09-27      |
-| UN02  | Rougela's Christmas                                                         | 1998-10-05       | Holiday Hi-Jynx                                                    | 1999-12-11      |
-| UN03  | Iwark as a Bivouac                                                          | 1998-10-05       | Snow Way Out!                                                      | 1999-12-18      |
 | EP065 | Rival Showdown! Okido Laboratory                                            | 1998-10-08       | Showdown at the Po-ké Corral                                       | 1999-09-30      |
 | EP066 | When Yadon Becomes Yadoran                                                  | 1998-10-08       | The Evolution Solution                                             | 1999-09-30      |
 | EP067 | The Legend of the Surfing Pikachu                                           | 1998-10-22       | The Pi-Kahuna                                                      | 1999-10-02      |
