@@ -756,22 +756,6 @@
     }
   },
   {
-    "code": "EP046",
-    "jpn": {
-      "airdate": "1998-05-28T00:00:00.000Z",
-      "number": 46,
-      "series": "EP",
-      "title": "Resurrection?! Fossil Pokémon!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-03-06T00:00:00.000Z",
-      "number": 46,
-      "season": 1,
-      "title": "Attack of the Prehistoric Pokémon"
-    }
-  },
-  {
     "code": "EP047",
     "jpn": {
       "airdate": "1998-06-04T00:00:00.000Z",
@@ -785,6 +769,38 @@
       "number": 47,
       "season": 1,
       "title": "A Chansey Operation"
+    }
+  },
+  {
+    "code": "EP052",
+    "jpn": {
+      "airdate": "1998-07-09T00:00:00.000Z",
+      "number": 52,
+      "series": "EP",
+      "title": "Fierce Fighting! Pokémon Girls' Festival!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-04-10T00:00:00.000Z",
+      "number": 52,
+      "season": 1,
+      "title": "Princess vs. Princess"
+    }
+  },
+  {
+    "code": "EP046",
+    "jpn": {
+      "airdate": "1998-05-28T00:00:00.000Z",
+      "number": 46,
+      "series": "EP",
+      "title": "Resurrection?! Fossil Pokémon!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-03-06T00:00:00.000Z",
+      "number": 46,
+      "season": 1,
+      "title": "Attack of the Prehistoric Pokémon"
     }
   },
   {
@@ -849,38 +865,6 @@
       "number": 51,
       "season": 1,
       "title": "Bulbasaur's Mysterious Garden"
-    }
-  },
-  {
-    "code": "EP052",
-    "jpn": {
-      "airdate": "1998-07-09T00:00:00.000Z",
-      "number": 52,
-      "series": "EP",
-      "title": "Fierce Fighting! Pokémon Girls' Festival!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-04-10T00:00:00.000Z",
-      "number": 52,
-      "season": 1,
-      "title": "Princess vs. Princess"
-    }
-  },
-  {
-    "code": "EP053",
-    "jpn": {
-      "airdate": "1998-07-09T00:00:00.000Z",
-      "number": 53,
-      "series": "EP",
-      "title": "It's Children's Day! All Members Gather!"
-    },
-    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
-    "usa": {
-      "airdate": "1999-04-17T00:00:00.000Z",
-      "number": 53,
-      "season": 1,
-      "title": "The Purr-fect Hero"
     }
   },
   {
@@ -955,6 +939,22 @@
       "number": 56,
       "season": 1,
       "title": "The Ultimate Test"
+    }
+  },
+  {
+    "code": "EP053",
+    "jpn": {
+      "airdate": "1998-07-09T00:00:00.000Z",
+      "number": 53,
+      "series": "EP",
+      "title": "It's Children's Day! All Members Gather!"
+    },
+    "src": "http://bulbapedia.bulbagarden.net/wiki/List_of_anime_episodes",
+    "usa": {
+      "airdate": "1999-04-17T00:00:00.000Z",
+      "number": 53,
+      "season": 1,
+      "title": "The Purr-fect Hero"
     }
   },
   {

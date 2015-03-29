@@ -48,19 +48,19 @@
 | EP043 | The Great Nassy Squad March!                                                | 1998-05-07       | The March of the Exeggutor Squad                                   | 1998-10-30      |
 | EP044 | Paras and Parasect                                                          | 1998-05-14       | The Problem with Paras                                             | 1999-02-13      |
 | EP045 | Sing! Purin!                                                                | 1998-05-21       | The Song of Jigglypuff                                             | 1999-02-20      |
-| EP046 | Resurrection?! Fossil Pokémon!                                              | 1998-05-28       | Attack of the Prehistoric Pokémon                                  | 1999-03-06      |
 | EP047 | Lucky's Clinical Records                                                    | 1998-06-04       | A Chansey Operation                                                | 1999-03-06      |
+| EP052 | Fierce Fighting! Pokémon Girls' Festival!                                   | 1998-07-09       | Princess vs. Princess                                              | 1999-04-10      |
+| EP046 | Resurrection?! Fossil Pokémon!                                              | 1998-05-28       | Attack of the Prehistoric Pokémon                                  | 1999-03-06      |
 | EP048 | Gardie and Kojirō                                                           | 1998-06-11       | Holy Matrimony!                                                    | 1999-03-13      |
 | EP049 | Kamonegi's Sitting Duck                                                     | 1998-06-18       | So Near, Yet So Farfetch'd                                         | 1999-03-20      |
 | EP050 | Who Gets to Keep Togepy!?                                                   | 1998-06-25       | Who Gets to Keep Togepi?                                           | 1999-03-27      |
 | EP051 | Fushigidane's Mysterious Flower Garden                                      | 1998-07-02       | Bulbasaur's Mysterious Garden                                      | 1999-04-03      |
-| EP052 | Fierce Fighting! Pokémon Girls' Festival!                                   | 1998-07-09       | Princess vs. Princess                                              | 1999-04-10      |
-| EP053 | It's Children's Day! All Members Gather!                                    | 1998-07-09       | The Purr-fect Hero                                                 | 1999-04-17      |
 | EP054 | Police Dog Gardie                                                           | 1998-07-16       | The Case of the K-9 Caper!                                         | 1999-04-10      |
 | PK01  | Pikachu's Summer Vacation                                                   | 1998-07-18       | Pikachu's Vacation                                                 | 1999-11-12      |
 | M01   | Mewtwo's Counterattack                                                      | 1998-07-18       | Pokémon the First Movie - Mewtwo Strikes Back                      | 1999-11-12      |
 | EP055 | Photo Op Pikachu                                                            | 1998-07-23       | Pokémon Paparazzi                                                  | 1999-04-17      |
 | EP056 | Pokémon Certification Test!?                                                | 1998-07-30       | The Ultimate Test                                                  | 1999-04-24      |
+| EP053 | It's Children's Day! All Members Gather!                                    | 1998-07-09       | The Purr-fect Hero                                                 | 1999-04-17      |
 | EP057 | The Secret of Breeding Center!                                              | 1998-08-06       | The Breeding Center Secret                                         | 1999-05-01      |
 | EP058 | Burn! Guren Gym!                                                            | 1998-08-13       | Riddle Me This                                                     | 1999-09-18      |
 | EP059 | Decisive Battle! Guren Gym!                                                 | 1998-08-20       | Volcanic Panic                                                     | 1999-09-18      |
