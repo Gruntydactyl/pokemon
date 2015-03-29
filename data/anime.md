@@ -343,10 +343,10 @@
 | AG033 | A Rival For Haruka! Intensive Pokémon Contest Training!!                    | 2003-07-10       | Now that's Flower Power!                                           | 2004-05-22      |
 | AG034 | The Great First Pokémon Panic!!                                             | 2003-07-17       | Having a Wailord of a Time                                         | 2004-05-22      |
 | UN07  | Pichu Bros. Wild Adventure                                                  | 2003-07-18       | Pichu Bros. in Party Panic                                         | 2003-12-01      |
-| PK12  | Secret Base of the Dancing Pokémon                                          | 2003-07-19       | Gotta Dance!!                                                      | 2004-06-01      |
-| M06   | Wishing Star of the Seven Nights: Jirachi                                   | 2003-07-19       | Jirachi: Wish Maker                                                | 2004-06-01      |
 | AG035 | Haruka! The First Pokémon Contest Challenge!!                               | 2003-07-24       | Win, Lose or Drew!                                                 | 2004-05-29      |
 | AG036 | Protect the Ocean Museum! Attack of Magma-dan!!                             | 2003-07-31       | The Spheal of Approval                                             | 2004-05-29      |
+| PK12  | Secret Base of the Dancing Pokémon                                          | 2003-07-19       | Gotta Dance!!                                                      | 2004-06-01      |
+| M06   | Wishing Star of the Seven Nights: Jirachi                                   | 2003-07-19       | Jirachi: Wish Maker                                                | 2004-06-01      |
 | AG037 | Beauty and the Beast!? Dirteng and Jōi-san!                                 | 2003-08-07       | Jump for Joy                                                       | 2004-08-27      |
 | AG038 | Prasle and Minun! The Mountain Lighthouse!!                                 | 2003-08-14       | A Different Kind of Misty!                                         | 2004-08-27      |
 | AG039 | Sing! Pokémon Trick House!!                                                 | 2003-08-21       | A Poké-BLOCK Party!                                                | 2004-09-04      |
