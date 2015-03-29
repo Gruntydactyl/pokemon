@@ -112,9 +112,9 @@
 | EP102 | Monster in the Sewers!?                                                     | 1999-06-24       | The Mystery Menace                                                 | 2000-05-06      |
 | EP103 | Yuzu Gym! Type Battle 3 VS 3!!                                              | 1999-07-01       | Misty Meets Her Match                                              | 2000-09-09      |
 | EP104 | Pikachu VS Nyarth!?                                                         | 1999-07-15       | Bound For Trouble                                                  | 2000-09-15      |
+| EP105 | Lizardon! I Choose You!!                                                    | 1999-07-22       | Charizard Chills                                                   | 2000-09-02      |
 | PK04  | The Pikachu Expedition                                                      | 1999-07-17       | Pikachu's Rescue Adventure                                         | 2000-07-21      |
 | M02   | Mirage Pokémon: Lugia's Explosive Birth                                     | 1999-07-17       | Pokémon the Movie 2000 - The Power of One                          | 2000-07-21      |
-| EP105 | Lizardon! I Choose You!!                                                    | 1999-07-22       | Charizard Chills                                                   | 2000-09-02      |
 | EP106 | Firefighting Showdown! Zenigame VS Kameil                                   | 1999-07-29       | The Pokémon Water War                                              | 2000-08-26      |
 | EP107 | Burn! Kabigon!!                                                             | 1999-08-05       | Pokémon Food Fight!                                                | 2000-08-19      |
 | EP108 | Tag Battle! The Final Gym!!                                                 | 1999-08-12       | Pokémon Double Trouble                                             | 2000-09-09      |
